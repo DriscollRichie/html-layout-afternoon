@@ -1,0 +1,89 @@
+body {
+   margin: 5;
+   background-color: white;
+   width: 100%;
+   height: 100vh;
+}
+
+.topContainer {
+   height: 100px;
+   width: 85vw;
+   background-color: white;
+   padding: 2cm;
+   padding-left: 12px;
+   margin: 1cm;
+   border: 5pt solid ;
+   border-color: black;
+}
+
+.Small_Rectangle {
+   height: 4.4cm;
+   width: 1.5cm;
+   background-color: #9229E9; 
+   float: left;
+}
+
+.Big_Green_Box {
+   height: 2.4in;
+   width: 4in;
+   background-color: #119809;
+   margin-left: 1.2in;
+   margin-top: -60px;
+   
+}
+
+.Blue_Circle {
+   border-radius: 50%;
+   height: 200px;
+   width: 200px;
+   background-color: #51ABFF;
+   margin-left: 6in;
+   margin-top: -2.3in;
+}
+
+.middleContainer {
+   height: 100px;
+   width: 85vw;
+   background-color: white;
+   padding: 2cm;
+   padding-left: 12px;
+   margin: 1cm;
+   border: 5pt dotted ;
+   border-color: black;
+
+}
+
+.Yellow_shadowBox {
+   height: 2in;
+   width: 12.3in;
+   background-color: #FFFFBA;
+   margin-left: 0.6in;
+   margin-top: -45px;
+   box-shadow: -webkit-box-shadow: 14px 16px 5px 0px rgba(99,99,99,0.81);
+   -moz-box-shadow: 14px 16px 5px 0px rgba(99,99,99,0.81);
+   box-shadow: 14px 16px 5px 0px rgba(99,99,99,0.81);
+}
+
+.lowerContainer {
+   height: 280px;
+   width: 45vw;
+   background-color: white;
+   box-sizing: border-box;
+   padding: 100px 0px;
+
+   margin: 1cm;
+   border: 0.02pt solid ;
+   border-color: black;
+   margin-left: 3.5in;
+   box-shadow: -webkit-box-shadow: 14px 16px 17px -10px rgba(163,157,163,1);
+   -moz-box-shadow: 14px 16px 17px -10px rgba(163,157,163,1);
+   box-shadow: 14px 16px 17px -10px rgba(163,157,163,1);
+   text-align: center;
+
+}
+
+.text {
+   
+   font-size: 50px;
+   letter-spacing: 10px
+}
